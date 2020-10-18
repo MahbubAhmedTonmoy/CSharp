@@ -32,7 +32,8 @@ namespace CSharp.Partial
     public partial class UserService
     {
         // This file only contains 
-        // declaration of partial method 
+        // declaration of partial method
+        // Partial methods are implicitly private, and therefore they cannot be virtual.
         partial void TrackUser(string userId);
         public bool IsValidUser(string userId)
         {
