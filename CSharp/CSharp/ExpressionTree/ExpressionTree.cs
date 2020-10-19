@@ -52,3 +52,20 @@ namespace CSharp.ExpressionTree
         public int Age { get; set; }
     }
 }
+
+/*
+
+Lambda expression is a special form of anonymous function. After using lambda,  we can create either 
+
+    Delegate or  
+    Expression Tree 
+
+After creating delegate we can execute code directly. But if we create Expression Tree we need to do one extra step. That is first compiled expression tree, after compilation done it will create delegate and this delegate run code.
+
+Q. Why one extra step is needed for Expression Tree?
+
+Ans. Expression Tree is not code block rather it is actually data block. 
+Though it is data block so directly execute is not possible. 
+For that reason compilation is needed, after compilation using Compile() method it creates delegate which is executable. 
+
+    */
