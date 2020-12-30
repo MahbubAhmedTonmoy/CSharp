@@ -1,8 +1,10 @@
-﻿using FluentAssertions;
+﻿using CSharp.Event2;
+using FluentAssertions;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
+using System.Threading;
 using Xunit;
 
 namespace CSharp.Event
@@ -32,6 +34,16 @@ namespace CSharp.Event
             bool result = employeeService.ResignEmployee(id);
 
             result.Should().Be(true);
+        }
+        [Fact]
+        public void ShouldWorkEvent2()
+        {
+            var c = new Counter();
+            c.ThresholdReached += c_ThresholdReached;
+            static void c_ThresholdReached(object sender, EventArgs e)
+            {
+                Debug.WriteLine("The threshold was reached.");
+            }
         }
 
     }

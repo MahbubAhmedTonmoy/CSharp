@@ -37,3 +37,24 @@ namespace CSharp.Event
         }
     }
 }
+
+namespace CSharp.Event2
+{
+    public delegate void ThresholdReachedEventHandler(object sender, ThresholdReachedEventArgs e);
+    public class Counter
+    {
+        public event EventHandler ThresholdReached;
+
+        protected virtual void OnThresholdReached(EventArgs e)
+        {
+            EventHandler handler = ThresholdReached;
+            handler?.Invoke(this, e);
+        }
+        
+    }
+    public class ThresholdReachedEventArgs: EventArgs
+    {
+        public int Threshold { get; set; }
+        public DateTime TimeReached { get; set; }
+    }
+}
