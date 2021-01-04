@@ -1,0 +1,13 @@
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.exe
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.deps.json
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.json
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.dev.json
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.dll
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\bin\Debug\netcoreapp3.1\problem.pdb
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.csprojAssemblyReference.cache
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfoInputs.cache
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfo.cs
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.dll
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.pdb
+C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\problem\obj\Debug\netcoreapp3.1\problem.genruntimeconfig.cache
