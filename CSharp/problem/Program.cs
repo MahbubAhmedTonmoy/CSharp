@@ -11,6 +11,7 @@ namespace problem
             double d = 8*((double)40 / (double)100);
             int size =(int)(Math.Floor(d));
             var pass = GeneratePassword(true, true, true, true, 8);
+            Console.WriteLine(pass);
 
         }
         public static string GeneratePassword(bool useLowercase, bool useUppercase, bool useNumbers, bool useSpecial,
