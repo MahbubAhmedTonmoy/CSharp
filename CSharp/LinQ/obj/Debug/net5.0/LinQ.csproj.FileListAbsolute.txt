@@ -1,0 +1,16 @@
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.exe
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.deps.json
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.json
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.dev.json
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.dll
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\ref\LinQ.dll
+E:\Mahbub\CSharp\CSharp\LinQ\bin\Debug\net5.0\LinQ.pdb
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.csprojAssemblyReference.cache
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfoInputs.cache
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfo.cs
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.csproj.CoreCompileInputs.cache
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.dll
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\ref\LinQ.dll
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.pdb
+E:\Mahbub\CSharp\CSharp\LinQ\obj\Debug\net5.0\LinQ.genruntimeconfig.cache

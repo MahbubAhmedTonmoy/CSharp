@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmed.mahbub\\Desktop\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj": {}
+    "E:\\Mahbub\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmed.mahbub\\Desktop\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj": {
+    "E:\\Mahbub\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed.mahbub\\Desktop\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj",
+        "projectUniqueName": "E:\\Mahbub\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj",
         "projectName": "EventConsoleApp",
-        "projectPath": "C:\\Users\\ahmed.mahbub\\Desktop\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj",
+        "projectPath": "E:\\Mahbub\\CSharp\\CSharp\\EventConsoleApp\\EventConsoleApp.csproj",
         "packagesPath": "C:\\Users\\ahmed.mahbub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed.mahbub\\Desktop\\CSharp\\CSharp\\EventConsoleApp\\obj\\",
+        "outputPath": "E:\\Mahbub\\CSharp\\CSharp\\EventConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed.mahbub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,6 +40,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

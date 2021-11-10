@@ -1,0 +1,16 @@
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.exe
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.deps.json
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.runtimeconfig.json
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.runtimeconfig.dev.json
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.dll
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\ref\DS1_generic.dll
+E:\Mahbub\CSharp\CSharp\DS1_generic\bin\Debug\net5.0\DS1_generic.pdb
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.csprojAssemblyReference.cache
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.AssemblyInfoInputs.cache
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.AssemblyInfo.cs
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.csproj.CoreCompileInputs.cache
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.dll
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\ref\DS1_generic.dll
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.pdb
+E:\Mahbub\CSharp\CSharp\DS1_generic\obj\Debug\net5.0\DS1_generic.genruntimeconfig.cache

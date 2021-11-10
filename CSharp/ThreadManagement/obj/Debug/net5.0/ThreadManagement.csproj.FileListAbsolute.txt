@@ -1,0 +1,16 @@
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.exe
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.deps.json
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.runtimeconfig.json
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.runtimeconfig.dev.json
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.dll
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ref\ThreadManagement.dll
+E:\Mahbub\CSharp\CSharp\ThreadManagement\bin\Debug\net5.0\ThreadManagement.pdb
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.csprojAssemblyReference.cache
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.AssemblyInfoInputs.cache
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.AssemblyInfo.cs
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.csproj.CoreCompileInputs.cache
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.dll
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ref\ThreadManagement.dll
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.pdb
+E:\Mahbub\CSharp\CSharp\ThreadManagement\obj\Debug\net5.0\ThreadManagement.genruntimeconfig.cache

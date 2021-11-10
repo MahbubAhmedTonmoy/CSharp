@@ -11,3 +11,16 @@ C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp
 C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.dll
 C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.pdb
 C:\Users\ahmed.mahbub\Desktop\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.genruntimeconfig.cache
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.exe
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.deps.json
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.runtimeconfig.json
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.runtimeconfig.dev.json
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.dll
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\bin\Debug\netcoreapp3.1\DateTimeProblem.pdb
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.csprojAssemblyReference.cache
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.AssemblyInfoInputs.cache
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.AssemblyInfo.cs
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.csproj.CoreCompileInputs.cache
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.dll
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.pdb
+E:\Mahbub\CSharp\CSharp\DateTimeProblem\obj\Debug\netcoreapp3.1\DateTimeProblem.genruntimeconfig.cache
